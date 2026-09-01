@@ -42,7 +42,7 @@
     "dpdm": "^3.14.0",
     "hnswlib-node": "^3.0.0",
     "typescript": "~6.0.3",
-    "vitest": "^4.1.8",
+    "vitest": "^4.1.11",
     "zod": "^3.25.76"
   },
   "publishConfig": {
